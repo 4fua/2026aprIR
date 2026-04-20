@@ -47,7 +47,7 @@ const settingsDatabase = {
   "ワールドダイスター 夢のステラリウム": {
     songs: ["Neustart"],
     difficulties: ["NORMAL", "HARD", "EXTRA", "STELLA", "OLIVIER"],
-    description: "提出する値：通常スコア"
+    description: "提出する値：達成率[%]×10000"
   },
   "Re:ステージ！プリズムステップ": {
     songs: ["Dream a gate"],
