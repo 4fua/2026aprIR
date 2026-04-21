@@ -37,7 +37,7 @@ const settingsDatabase = {
   "Phigros": {
     songs: ["Reimei"],
     difficulties: ["EZ", "HD", "IN"],
-    description: "提出する値：ACC[%]"
+    description: "提出する値：ACC[%]×100"
   },
   "プロセカ": {
     songs: ["げんてん"],
